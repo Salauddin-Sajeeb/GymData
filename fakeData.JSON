@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Smart Weight Lifting",
+        "trainer": "john doe",
+        "classTime": "Friday-Monday",
+        "fee": 100,
+        "key": 1,
+        "image": "https://www.mensjournal.com/wp-content/uploads/mf/_main_liftlift.jpg?quality=86&strip=all"
+    },
+    {
+        "name": "Personal Training",
+        "trainer": "john doe",
+        "classTime": "Friday-Monday",
+        "fee": 100,
+        "key": 2,
+        "image": "https://media.istockphoto.com/photos/male-personal-trainer-helping-sportswoman-to-do-exercises-with-at-picture-id972833328?k=20&m=972833328&s=612x612&w=0&h=LtGaklhIxyJbMkxEKDNWzGXgX-zmONE2-llVRDrv17c="
+    },
+    {
+        "name": "Group Fitness Class",
+        "trainer": "john moxley",
+        "classTime": "Friday-Monday",
+        "fee": 100,
+        "key": 3,
+        "image": "https://media.istockphoto.com/photos/every-step-taken-towards-fitness-pays-off-picture-id966295656?k=20&m=966295656&s=612x612&w=0&h=cYAqnyhO6E8x1SRCOjcBxWcOovPyWVAgFv1dTVl08sw="
+    },
+    {
+        "name": "Yoga class",
+        "trainer": "Tara Babcock",
+        "classTime": "Friday-Monday",
+        "fee": 100,
+        "key": 4,
+        "image": "https://media.istockphoto.com/photos/every-step-taken-towards-fitness-pays-off-picture-id966295656?k=20&m=966295656&s=612x612&w=0&h=cYAqnyhO6E8x1SRCOjcBxWcOovPyWVAgFv1dTVl08sw="
+    },
+    {
+        "name": "Pilates",
+        "trainer": "Daniel",
+        "classTime": "Friday-Monday",
+        "fee": 100,
+        "key": 5,
+        "image": "https://media.istockphoto.com/photos/woman-performing-a-pilates-diagonal-stabilisation-picture-id1171254524?k=20&m=1171254524&s=612x612&w=0&h=KrTcKCtoTPbr-xt4f6H42CR7ytYKtVlociKGPhIsYx8="
+    },
+    {
+        "name": "Spinning Class",
+        "trainer": "Boby Lashley",
+        "classTime": "Friday-Monday",
+        "fee": 100,
+        "key": 6,
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/group-of-fit-people-working-out-on-spinning-class-royalty-free-image-916146326-1541706732.jpg://media.istockphoto.com/photos/woman-performing-a-pilates-diagonal-stabilisation-picture-id1171254524?k=20&m=1171254524&s=612x612&w=0&h=KrTcKCtoTPbr-xt4f6H42CR7ytYKtVlociKGPhIsYx8="
+    },
+    {
+        "name": "Diet Control Training",
+        "trainer": "Ashley Young",
+        "classTime": "Friday-Monday",
+        "fee": 100,
+        "key": 7,
+        "image": "https://static.toiimg.com/thumb/msid-86648313/86648313.jpg?width=500&resizemode=4://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/group-of-fit-people-working-out-on-spinning-class-royalty-free-image-916146326-1541706732.jpg://media.istockphoto.com/photos/woman-performing-a-pilates-diagonal-stabilisation-picture-id1171254524?k=20&m=1171254524&s=612x612&w=0&h=KrTcKCtoTPbr-xt4f6H42CR7ytYKtVlociKGPhIsYx8="
+    },
+    {
+        "name": "Regular Gym Training",
+        "trainer": "Ashley Young",
+        "classTime": "Friday-Monday",
+        "fee": 100,
+        "key": 8,
+        "image": "https://images.theconversation.com/files/348129/original/file-20200717-23-1ymk51n.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop://static.toiimg.com/thumb/msid-86648313/86648313.jpg?width=500&resizemode=4://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/group-of-fit-people-working-out-on-spinning-class-royalty-free-image-916146326-1541706732.jpg://media.istockphoto.com/photos/woman-performing-a-pilates-diagonal-stabilisation-picture-id1171254524?k=20&m=1171254524&s=612x612&w=0&h=KrTcKCtoTPbr-xt4f6H42CR7ytYKtVlociKGPhIsYx8="
+    }
+]
