@@ -29,7 +29,7 @@
         "classTime": "Friday-Monday",
         "fee": 100,
         "key": 4,
-       "image":"https://brittanybliss.com/wp-content/uploads/2020/04/1st-yoga-class.jpg"
+        "image": "https://brittanybliss.com/wp-content/uploads/2020/04/1st-yoga-class.jpg"
     },
     {
         "name": "Pilates",
@@ -45,7 +45,7 @@
         "classTime": "Friday-Monday",
         "fee": 100,
         "key": 6,
-        "image":"https://i.ytimg.com/vi/yMfmaQAXQns/maxresdefault.jpg"
+        "image": "https://i.ytimg.com/vi/yMfmaQAXQns/maxresdefault.jpg"
     },
     {
         "name": "Diet Control Training",
@@ -53,7 +53,7 @@
         "classTime": "Friday-Monday",
         "fee": 100,
         "key": 7,
-        "image":"https://i.ndtvimg.com/i/2016-08/exercise-625_625x350_51470405587.jpg"
+        "image": "https://i.ndtvimg.com/i/2016-08/exercise-625_625x350_51470405587.jpg"
     },
     {
         "name": "Regular Gym Training",
@@ -61,6 +61,6 @@
         "classTime": "Friday-Monday",
         "fee": 100,
         "key": 9,
-        "image":"https://www.netmeds.com/images/cms/wysiwyg/blog/Post/2018/09/workout_gym_898.jpg"
+        "image": "https://www.netmeds.com/images/cms/wysiwyg/blog/Post/2018/09/workout_gym_898.jpg"
     }
 ]
