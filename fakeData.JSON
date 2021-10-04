@@ -29,7 +29,8 @@
         "classTime": "Friday-Monday",
         "fee": 100,
         "key": 4,
-        "image":"https://images.pexels.com/photos/3984340/pexels-photo-3984340.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        "image": "https://media.istockphoto.com/photos/every-step-taken-towards-fitness-pays-off-picture-id966295656?k=20&m=966295656&s=612x612&w=0&h=cYAqnyhO6E8x1SRCOjcBxWcOovPyWVAgFv1dTVl08sw="
+    },
     {
         "name": "Pilates",
         "trainer": "Daniel",
@@ -44,7 +45,7 @@
         "classTime": "Friday-Monday",
         "fee": 100,
         "key": 6,
-        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/group-of-fit-people-working-out-on-spinning-class-royalty-free-image-916146326-1541706732.jpg"
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/group-of-fit-people-working-out-on-spinning-class-royalty-free-image-916146326-1541706732.jpg://media.istockphoto.com/photos/woman-performing-a-pilates-diagonal-stabilisation-picture-id1171254524?k=20&m=1171254524&s=612x612&w=0&h=KrTcKCtoTPbr-xt4f6H42CR7ytYKtVlociKGPhIsYx8="
     },
     {
         "name": "Diet Control Training",
